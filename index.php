@@ -16,6 +16,8 @@
 
 
 	<!--<script src="script/main.js"></script>-->
-	<script src="script/javascriptObjectProperties.js"></script>
+	<!---<script src="script/javascriptObjectProperties.js"></script> -->
+	<script src="script/protoypeinheritance.js"></script>
+
 </body>
 </html>

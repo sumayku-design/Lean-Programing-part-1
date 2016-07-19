@@ -15,9 +15,18 @@ display(job.['programer']) // no designer
 */
 
 // js Property descriptors
- var job = {
- 	name: 'Web design',
- 	exp: '2 Years'
- };
+//  var job = {
+//  	name: 'Web design',
+//  	exp: '2 Years'
+//  };
 
- console.log(object.getOwnPropertyDescriptor(job, 'name'));
+// object.defineProperty(job, 'name', {writable:false});
+//  console.log(object.getOwnPropertyDescriptor(job, 'name'));
+ 
+
+ /* ===    
+Writable 
+Enumerable
+Configurable
+Getters/Setter
+ ===== */
